@@ -1,0 +1,4 @@
+_site/
+.sass-chache/
+.jekyll-chache/
+.jekyll-metadata
